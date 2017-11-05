@@ -1,0 +1,146 @@
+﻿/*Class Wise CSS Pattern
+
+    Css layout according to W3 Schools
+    1.Colours   *********************************** Convention : .c-red
+        -By names 
+        -By Hexadecials
+
+    2.Background    ****************************************** 
+        -Color      Convention : .bgc-red
+        -Background 
+        -Background Repeat
+        -Background Position
+        -Background attachment
+    3.Border  Done
+        -Type  
+        -Width  ******************************************
+        -Color
+        -Individual sides  ******************************************
+        -Radius  DONE
+    4.Margins   ******************************************
+        -Individual sides  ******************************************
+        -Auto 
+        -Inherit
+        -Collapse
+    5.Padding done
+        -Individual sides ******************************************
+    6.Height  ******************************************
+        -Pixels
+        -Percentage
+    7.Width  ******************************************
+        -Pixels
+        -percentage
+    8.Outline   ******************************************
+        -Style
+        -Color
+        -Width
+        -Offset
+    9.Text 
+        -Color
+        -Alignment
+        -Decoration
+        -Transformation
+        -Indentation
+        -Letter-spacing
+        -Line-height
+        -Direction
+        -Word-spacing
+    10.Font
+        -Family *****************************
+        -Style *****************************
+        -Size pixel *****************************
+        -Size em *****************************
+        -Weight *****************************
+        -Variant *****************************
+    11.Link 
+        -Color
+        -Visited
+        -Hover
+        -Active
+    12.List
+        -List Style Type
+        -Style-Position
+    13.Display
+        -Display
+        -Visibility
+    14.Max-Width Done **********************************
+        -Max-Width
+    15.Position  888888888888888888888888888888888888888
+        -Position **************************
+        -Top  *****************************
+        -Bottom  *****************************
+        -Left  *****************************
+        -Right  *****************************
+        -Overflow  
+        -Cursor
+
+    16.Direction
+        -Direction
+    17.Display
+        -Display
+    18.Filter
+        -several
+    19.Flex
+        -Flex
+    20.Flex-basis
+        -Flex-basis  
+    21.Max-width
+    
+    
+    24.Float
+    25.Inline-block
+    26.Align
+    27.Combinators
+    28.Pseudo-class
+    29.Pseudo-element
+    30.Opacity  ****************************
+    31.Navigation Bar
+    32.Dropdowns
+    33.Tooltips
+    34.Image Gallery
+    35.Image Gallery
+    36.Image Sprites
+    37.Attr Selectors
+    38.Forms
+    39.Counters
+    
+    *****************************************************************
+    CSS3
+    *****************************************************************
+
+    CSS3
+    CSS3 Introduction
+    CSS3 Rounded Corners
+    CSS3 Border Images
+    CSS3 Backgrounds
+    CSS3 Colors
+    CSS3 Gradients
+    CSS3 Shadows
+    CSS3 Text
+    CSS3 Fonts
+    CSS3 2D Transforms
+    CSS3 3D Transforms
+    CSS3 Transitions
+    CSS3 Animations
+    CSS3 Images
+    CSS3 Buttons
+    CSS3 Pagination
+    CSS3 Multiple Columns
+    CSS3 User Interface
+    CSS3 Box Sizing
+    CSS3 Flexbox
+    CSS3 Media Queries
+    CSS3 MQ Examples
+
+    CSS Responsive
+    RWD Intro
+    RWD Viewport
+    RWD Grid View
+    RWD Media Queries
+    RWD Images
+    RWD Videos
+    RWD Frameworks
+    RWD Templates
+
+*/
+

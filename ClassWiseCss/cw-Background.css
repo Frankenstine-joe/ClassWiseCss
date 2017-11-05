@@ -1,0 +1,39 @@
+﻿.bg-cover {
+    background-size: cover;
+}
+
+.bg-norepeat {
+    background: no-repeat;
+}
+
+.bg-center {
+    background-position: center;
+}
+
+.bg-repeat-x {
+    background: repeat-x;
+}
+
+.bg-repeat-y {
+    background: repeat-y;
+}
+
+.bg-repeat {
+    background: repeat;
+}
+
+.bg-top {
+    background-position: top;
+}
+
+.bg-left {
+    background-position: left;
+}
+
+.bg-right {
+    background-position: right;
+}
+
+.bg-bottom {
+    background-position: bottom;
+}

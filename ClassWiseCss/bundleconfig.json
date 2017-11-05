@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "cw-Height.min.css",
+    "inputFiles": [
+      "cw-Height.css"
+    ]
+  },
+  {
+    "outputFileName": "Classwisecss.min.css",
+    "inputFiles": [
+      "Classwisecss.css"
+    ]
+  }
+]

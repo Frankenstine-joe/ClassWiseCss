@@ -1,0 +1,16 @@
+﻿
+.l-s-circle .a {
+    list-style-type: circle;
+}
+
+.l-s-square .b {
+    list-style-type: square;
+}
+
+.l-s-UpperRoman .c {
+    list-style-type: upper-roman;
+}
+
+.l-s-LowerAplha .d {
+    list-style-type: lower-alpha;
+}

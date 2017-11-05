@@ -1,0 +1,95 @@
+﻿/*Class Wise CSS Pattern
+
+    Css layout according to W3 Schools
+    1.Colours
+        -By names
+        -By Hexadecials
+
+    2.Background
+        -Color
+        -Background 
+        -Background Repeat
+        -Background Position
+        -Background attachment
+    3.Border 
+        -Type
+        -Width
+        -Color
+        -Individual sides
+        -Radius
+    4.Margins
+        -Individual sides
+        -Auto
+        -Inherit
+        -Collapse
+    5.Padding
+        -Individual sides
+    6.Height
+        -Pixels
+        -Percentage
+    7.Width
+        -Pixels
+        -percentage
+    8.Outline
+        -Style
+        -Color
+        -Width
+        -Offset
+    9.Text 
+        -Color
+        -Alignment
+        -Decoration
+        -Transformation
+        -Indentation
+        -Letter-spacing
+        -Line-height
+        -Direction
+        -Word-spacing
+    10.Font
+        -Family
+        -Style
+        -Size pixel
+        -Size em
+        -Weight
+        -Variant
+    11.Link
+        -Color
+        -Visited
+        -Hover
+        -Active
+    12.List
+        -List Style Type
+        -Style-Position
+    13.Display
+        -Display
+        -Visibility
+    14.Max-Width
+        -Max-Width
+    15.Position
+        -Position
+        -Top
+        -Bottom
+        -Left
+        -Right
+        -Overflow
+        -Cursor
+
+    16.Direction
+        -Direction
+    17.Display
+        -Display
+    18.Filter
+        -several
+    19.Flex
+        -Flex
+    20.Flex-basis
+        -Flex-basis  
+*/
+
+
+
+/***************************************************************************************/
+
+/* Div Positioning */
+
+/***************************************************************************************/

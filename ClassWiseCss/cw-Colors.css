@@ -1,0 +1,78 @@
+﻿.c-red{
+    color:red;
+}
+.c-yellow{
+    color:yellow;
+}
+.c-black{
+    color:black;
+}
+.c-blue{
+    color:blue;
+}
+.c-green{
+    color:green
+}
+.c-white{
+    color:white;
+}
+.c-purple{
+    color:purple;
+}
+.c-grey{
+    color:grey;
+}
+.c-gray{
+    color:gray;
+}
+.c-light-gray{
+    color:lightgray;
+}
+.c-light-blue{
+    color:lightblue;
+}
+c-light-green{
+    color:lightgreen;
+}
+
+
+/***********************************/
+/*Background Colors*/
+/***********************************/
+
+.bgc-red{
+    background-color:red;
+}
+.bgc-yellow{
+    background-color:yellow;
+}
+.bgc-black{
+    background-color:black;
+}
+.bgc-blue{
+    background-color:blue;
+}
+.bgc-green{
+    background-color:green
+}
+.bgc-white{
+    background-color:white;
+}
+.bgc-purple{
+    background-color:purple;
+}
+.bgc-grey{
+    background-color:grey;
+}
+.bgc-gray{
+    background-color:gray;
+}
+.bgc-light-gray{
+    background-color:lightgray;
+}
+.bgc-light-blue{
+    background-color:lightblue;
+}
+.bgc-light-green{
+    background-color:lightgreen;
+}
