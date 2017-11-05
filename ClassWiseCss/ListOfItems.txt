@@ -12,7 +12,7 @@
         -Background Position
         -Background attachment
     3.Border 
-        -Type
+        -Type 
         -Width
         -Color
         -Individual sides
